@@ -1,3 +1,6 @@
 error.log 
 *.log 
-dir/
+static/dir/more.txt
+
+
+
